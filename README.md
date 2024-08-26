@@ -10,4 +10,5 @@ I hand-crafted a book containing all the amazing tales from the Trail! I binded 
 ![](https://github.com/themagicfrog/talesfromthetrail/blob/main/trailbook6.png)
 ![](https://github.com/themagicfrog/talesfromthetrail/blob/main/trailbook7.png)
 
-See the entire book here: https://youtu.be/fBuMKZROKv0
+See all of the pages here: https://docs.google.com/document/d/16lMUuA6GF8RqRvB3axDwEq4kIcqhxX17YrtS4XYHUTI/edit?usp=sharing 
+See a video of flipping through entire book here: https://youtu.be/fBuMKZROKv0
