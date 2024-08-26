@@ -1,4 +1,4 @@
-#Tales from the Trail
+# Tales from the Trail
 
 I hand-crafted a book containing all the amazing tales from the Trail! I binded it with leather and aged-looking paper, wrote fun anecdotes along with little 3D paper gadets, pages about the friends I made, tiny lake dioramas, full-page pop-ups, and more! Here are few photos:
 
